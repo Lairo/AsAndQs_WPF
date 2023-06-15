@@ -1,4 +1,5 @@
 ﻿using AsAndQs;
+using System;
 using System.Windows;
 
 namespace AsAndQs_WPF
@@ -20,8 +21,7 @@ namespace AsAndQs_WPF
 
             // 4 buttons
             // entire answers shown and then the correct answer light up in green?
-
-
+            // list or buttons?
 
             q += b.m1();
             q += c.m2();
