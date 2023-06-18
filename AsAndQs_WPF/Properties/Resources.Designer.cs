@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AsAndQs_WPF.Properties
+namespace AsAndQs_WPF_ME.Properties
 {
 
 
