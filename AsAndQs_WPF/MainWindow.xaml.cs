@@ -22,6 +22,10 @@ namespace AsAndQs_WPF_ME
             // 4 buttons
             // entire answers shown and then the correct answer light up in green?
             // list or buttons?
+            // buttons for choices with a different outcome?
+            // rewritable optional number in that function?
+            // double launch?
+            // pagination?
 
             q += b.m1();
             q += c.m2();
